@@ -18,5 +18,9 @@
         "titleBar.inactiveBackground": "#c4793999",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#C47939"
+    "peacock.color": "#C47939",
+    "cSpell.ignoreWords": [
+        "frombytes",
+        "pixmap"
+    ]
 }

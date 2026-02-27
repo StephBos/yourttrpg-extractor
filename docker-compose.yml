@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  extractor:
+    build: .
+    container_name: yourttrpg-extractor
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
